@@ -12,8 +12,7 @@ Este painel de consulta tem o objetivo de retornar dados pessoais através do No
 - ⭐ RG
 - ⭐Email
 
-### Tecnologias sendo utilizadas
-By barbosa & sny666
+### By barbosa & sny666
 
 ### Instalação 
 
